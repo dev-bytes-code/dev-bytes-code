@@ -1,66 +1,95 @@
 <!-- README.md -->
 
-<h1 align="center">🚀 Dev Bytes Code</h1>
-
-<p align="center">
+<h1 align="center">
   <img src="https://your-logo-link-here.com/logo.png" width="120" alt="Dev Bytes Code Logo"/>
+  <br/>
+  <b>Dev Bytes Code</b>
+</h1>
+
+<p align="center">
+  <i>💻 Belajar coding interaktif untuk semua • 🚀 Kursus online modern • 🎓 Sertifikat otomatis</i>
 </p>
 
 <p align="center">
-  <b>Belajar coding lebih mudah, interaktif, dan menyenangkan di Dev Bytes Code! 🎓</b><br/>
-  Kursus online | Materi interaktif | Pembayaran otomatis | Sertifikat
+  <a href="https://github.com/username/dev-bytes-code"><img src="https://img.shields.io/github/stars/username/dev-bytes-code?style=social" alt="Stars"></a>
+  <a href="https://github.com/username/dev-bytes-code"><img src="https://img.shields.io/github/forks/username/dev-bytes-code?style=social" alt="Forks"></a>
+  <a href="https://github.com/username/dev-bytes-code"><img src="https://img.shields.io/github/issues/username/dev-bytes-code" alt="Issues"></a>
 </p>
 
 <p align="center">
-  <a href="https://devbytescode.com">🌐 Website</a> •
-  <a href="mailto:support@devbytescode.com">📧 Kontak</a> •
-  <a href="https://github.com/username/dev-bytes-code">💻 Repositori</a>
+  <a href="https://devbytescode.com"><strong>🌐 Website Dev Bytes Code »</strong></a>
 </p>
 
 ---
 
-## ✨ Tentang Dev Bytes Code
+## 🚀 Tentang Dev Bytes Code
 
-👋 Hai! Saya adalah Dev Bytes Code, platform belajar coding untuk semua orang.  
-Kami menyediakan kursus online lengkap dengan:
-- 📚 Materi teks & video berkualitas
-- 🎨 UI yang mudah digunakan
-- ⚡ Pembayaran otomatis (Midtrans/Tripay)
-- 🎓 Sertifikat otomatis untuk peserta
+Dev Bytes Code adalah platform belajar coding online yang dirancang agar siapa saja bisa mulai belajar pemrograman dari dasar hingga mahir — dengan materi video, teks, latihan interaktif, dan sistem pembayaran otomatis.
 
----
-
-## 🚀 Proyek Kami
-
-| 🔗 Proyek | 📌 Deskripsi |
-| --- | --- |
-| [Dev Bytes Code](https://github.com/username/dev-bytes-code) | Website belajar coding dengan Laravel Filament |
-| [Mobile App](https://github.com/username/dev-bytes-code-app) | Aplikasi mobile React Native untuk Dev Bytes Code |
+**Apa yang membedakan kami?**
+- 🎨 UI modern & responsif
+- 🧩 Materi terstruktur per kursus & bab
+- 💳 Integrasi pembayaran otomatis Midtrans/Tripay
+- 🎓 Sertifikat otomatis untuk peserta yang menyelesaikan kursus
+- 🛡️ Kontrol akses peran: Admin, Pengajar, Siswa
 
 ---
 
-## 📸 Screenshot
+## ✨ Fitur Unggulan
+
+✅ Kursus gratis & premium  
+✅ Materi video dan teks  
+✅ Progress tracking  
+✅ Dashboard interaktif  
+✅ Role-based access  
+✅ Sertifikat digital
+
+---
+
+## 📸 Preview
 
 <p align="center">
-  <img src="https://your-link-here.com/screenshot1.png" alt="Dashboard" width="600"/>
+  <img src="https://your-link-here.com/screenshot1.png" width="800" alt="Dashboard Screenshot">
 </p>
 
 ---
 
-## 💼 Teknologi yang Kami Gunakan
+## 📦 Teknologi
 
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-7C3AED?logo=filament&logoColor=white)
-![Midtrans](https://img.shields.io/badge/Midtrans-00A2E0?logo=midtrans&logoColor=white)
+| 🔧 Backend | 🎨 Frontend | 💳 Pembayaran |
+|-----------|------------|---------------|
+| Laravel   | TailwindCSS, Alpine.js | Midtrans, Tripay |
+| Filament Admin | React Native (mobile) | |
 
 ---
 
-## 🛠️ Keahlian Saya
+## 🌱 Saat Ini Sedang Dikembangkan
 
-```txt
-- PHP / Laravel
-- Filament Admin Panel
-- TailwindCSS
-- React Native
-- API Integration (Midtrans, Tripay)
+- 🔥 Aplikasi mobile offline
+- 📊 Leaderboard siswa
+- 🌑 Dark mode
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,js,react,git" alt="My Skills"/>
+</p>
+
+---
+
+## 📬 Hubungi Kami
+
+📧 [support@devbytescode.com](mailto:support@devbytescode.com)  
+🌐 [devbytescode.com](https://devbytescode.com)  
+🐦 [@devbytescode](https://twitter.com/devbytescode)  
+📸 [Instagram](https://instagram.com/devbytescode)
+
+---
+
+<p align="center">
+  <img src="https://your-link-here.com/footer.png" width="300" alt="Thanks for visiting!">
+  <br/><br/>
+  <i>Terima kasih sudah berkunjung ke profil kami! Jangan lupa follow dan ⭐ repo kami 🙌</i>
+</p>
