@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://your-logo-link-here.com/logo.png" width="120" alt="Dev Bytes Code Logo"/>
+  <img src="[https://your-logo-link-here.com/logo.png](https://github.com/dev-bytes-code/dev-bytes-code/blob/main/3.png)" width="120" alt="Dev Bytes Code Logo"/>
   <br/>
   <b>Dev Bytes Code</b>
 </h1>
